@@ -1,6 +1,6 @@
 name: Kheng
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.40877511026337743
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: engagement
     item: null
     url: null
+typography_spectrum: 0.5895615443587303
